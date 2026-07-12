@@ -6,3 +6,4 @@
 | 03 | 09/07/2026 |  Embeddings Deep Dive | ✔ | Discussed about Embeddings, Vectors and cosine similarity|
 | 04 | 12/07/2026 | Your First RAG Pipeline | ✔ | Built the first RAG pipeline without any framework |
 | 05 | 12/07/2026 | ChromaDB Intergration | ✔ | Day 04 never used a vectore store so it was introduced in day05 using ChromaDB |
+| 06 | 12/07/2026 | LlamaIndex | ✔ | Introduction to LlamaIndex|
