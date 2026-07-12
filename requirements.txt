@@ -1,6 +1,7 @@
-llama-index
+llama-index>=0.12
 langchain
-chromadb
+chromadb==0.6.0
 sentence-transformers
 openai
 pypdf
+numpy
